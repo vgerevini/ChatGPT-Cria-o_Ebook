@@ -1,0 +1,9 @@
+faça um texto para ebook, com foco em sql server, listando os principais comandos sql com exemplos de comandos
+
+{REGRAS}
+> Explique sempre de uma maneira simples
+> Deixe o texto enxuto
+> Sempre traga exemplos de comandos em contextos reais
+> Sempre deixe um titulo sugestivo por tópico
+
+App para estilizar códigos: showcode.app
